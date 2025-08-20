@@ -37,15 +37,18 @@ The project includes:
 - **Scikit-learn** – Machine learning (KMeans, PCA)  
 - **Dash** – Interactive dashboard  
 
+
+---
+
+## 📈 Results & Insights
+- Customers were segmented into well-defined groups based on income and spending behavior.  
+- Visualization through the dashboard makes it easy to explore clusters interactively.  
+- The analysis provides actionable insights for **targeted marketing and customer engagement strategies**.
+
+  
 ---
 
 ## 📬 Author  
 **Arjit Raghuvanshi**  
 Data analytics, Data Science & Machine Learning Enthusiast  
 [GitHub Profile](https://github.com/arjitraghuvanshi)  
----
-
-## 📈 Results & Insights
-- Customers were segmented into well-defined groups based on income and spending behavior.  
-- Visualization through the dashboard makes it easy to explore clusters interactively.  
-- The analysis provides actionable insights for **targeted marketing and customer engagement strategies**.  
