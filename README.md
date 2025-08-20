@@ -39,6 +39,12 @@ The project includes:
 
 ---
 
+## 📬 Author  
+**Arjit Raghuvanshi**  
+Data analytics, Data Science & Machine Learning Enthusiast  
+[GitHub Profile](https://github.com/arjitraghuvanshi)  
+---
+
 ## 📈 Results & Insights
 - Customers were segmented into well-defined groups based on income and spending behavior.  
 - Visualization through the dashboard makes it easy to explore clusters interactively.  
